@@ -21,7 +21,7 @@
 #
 
 # pg, g95, intel, gfortran
-arch = g95
+arch = gfortran
 
 PPFLAGS =  
 F90EXT = f90
